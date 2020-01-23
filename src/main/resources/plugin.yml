@@ -1,0 +1,6 @@
+author: Paroxial
+description: API to modify the server tab list.
+depend: [ProtocolSupport, ProtocolLib]
+main: me.paroxial.fabtab.FabTab
+name: FabTab
+version: 1.0
